@@ -30,7 +30,7 @@
     "jasmine": "^2.4.1",
     "portfinder": "^1.0.10",
     "selenium-mock": "^0.1.5",
-    "typescript": "^2.0.0"
+    "typescript": "^3.2.0"
   },
   "engines": {
     "node": ">=6.9.x"
