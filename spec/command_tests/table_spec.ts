@@ -65,7 +65,7 @@ describe('table tests', () => {
     shakeDevice: {},
     sendChromiumCommand: {args: ['DOM.enable', {}]},
     sendChromiumCommandAndGetResult: {args: ['DOM.enable', {}]},
-    startRecordingScreen:{},
+    startRecordingScreen: {params: {options: null}},
     stopRecordingScreen:{}
   }
   function runTestcase(commandName: string) {
